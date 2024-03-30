@@ -1,6 +1,8 @@
 # gpreg
 Regressions with two dimensional fixed effects Use gpreg With STATA 18
 
+https://www.youtube.com/watch?v=CIByOhW797w
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
